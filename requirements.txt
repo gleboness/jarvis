@@ -1,0 +1,29 @@
+# Telegram
+python-telegram-bot>=21.0
+telethon>=1.34.0  # Для чтения каналов
+
+# Google APIs
+google-auth>=2.0.0
+google-auth-oauthlib>=1.0.0
+google-auth-httplib2>=0.2.0
+google-api-python-client>=2.0.0
+
+# Database
+sqlalchemy>=2.0.0
+
+# HTTP & Web
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+duckduckgo-search>=4.0.0  # Бесплатный веб-поиск
+
+# RSS & News
+feedparser>=6.0.0
+
+# Scheduling
+apscheduler>=3.10.0
+
+# Environment
+python-dotenv>=1.0.0
+
+# Date/Time
+pytz>=2023.3
